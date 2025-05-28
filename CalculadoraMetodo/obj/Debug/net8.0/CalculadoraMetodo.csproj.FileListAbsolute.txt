@@ -1,0 +1,15 @@
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\bin\Debug\net8.0\CalculadoraMetodo.exe
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\bin\Debug\net8.0\CalculadoraMetodo.deps.json
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\bin\Debug\net8.0\CalculadoraMetodo.runtimeconfig.json
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\bin\Debug\net8.0\CalculadoraMetodo.dll
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\bin\Debug\net8.0\CalculadoraMetodo.pdb
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\obj\Debug\net8.0\CalculadoraMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\obj\Debug\net8.0\CalculadoraMetodo.AssemblyInfoInputs.cache
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\obj\Debug\net8.0\CalculadoraMetodo.AssemblyInfo.cs
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\obj\Debug\net8.0\CalculadoraMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\obj\Debug\net8.0\CalculadoraMetodo.sourcelink.json
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\obj\Debug\net8.0\CalculadoraMetodo.dll
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\obj\Debug\net8.0\refint\CalculadoraMetodo.dll
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\obj\Debug\net8.0\CalculadoraMetodo.pdb
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\obj\Debug\net8.0\CalculadoraMetodo.genruntimeconfig.cache
+C:\Users\Alunos\Projetos-GM\CalculadoraMetodo\CalculadoraMetodo\obj\Debug\net8.0\ref\CalculadoraMetodo.dll
